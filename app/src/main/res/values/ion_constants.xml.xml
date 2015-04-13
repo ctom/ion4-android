@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="bind_service_success" type="id"/>
+    <item name="bind_service_failed" type="id"/>
+
+</resources>

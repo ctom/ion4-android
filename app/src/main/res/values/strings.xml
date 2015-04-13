@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ION Rewards</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="ionapi_endpoint_url">https://testapi.ionloyalty.com/API</string>
+
+    <string-array name="ion_drawer_list">
+        <item>CASH BALANCE</item>
+        <item>ACTIVITY</item>
+        <item>GIFT CARD</item>
+        <item>CONNECTIONS</item>
+        <item>LOG OUT</item>
+        <item>ABOUT</item>
+    </string-array>
+
+</resources>
